@@ -1,5 +1,6 @@
 # python-keylogger
 Keylogger simples que extrai senhas salvas no Google Chrome feito com python
+
 Simple keylogger and Google Chrome passwords hijacker made with python
 
 # Credits
